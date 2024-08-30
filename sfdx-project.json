@@ -1,8 +1,11 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "Accelerator-1",
       "default": true
+    },
+    {
+      "path": "Accelerator-2"
     }
   ],
   "name": "AcceleratorsCollectionTest",
